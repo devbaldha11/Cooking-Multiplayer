@@ -1,5 +1,5 @@
 # Cooking-Multiplayer
-Multiplayer game made using Unity Netcode
+
 ![Image](https://github.com/user-attachments/assets/fe8fc6bb-d5d9-45d8-9e82-7a973d4f0145)
 ![Image](https://github.com/user-attachments/assets/23421e34-08ad-4a5b-9286-b65d38eae94a)
 ![Image](https://github.com/user-attachments/assets/0160f2d8-f0de-47aa-ade2-dec743f2513e)
